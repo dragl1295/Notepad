@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="enter_note_here">Enter note here</string>
+    <string name="todo">TODO</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_the_name">Enter the name</string>
+</resources>
